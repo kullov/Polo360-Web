@@ -1,0 +1,472 @@
+
+.img-polo {
+    margin-left: 20px;
+    margin-right: -30px;
+    float: left;
+}
+
+.img-polo img {
+    display: inline-block;
+    float: left;
+
+}
+
+.slider2 {
+    margin-left: 200px;
+    width: 940px;
+    border-bottom: 1px solid #e5e5e5;
+    -webkit-box-shadow: -20px 9px 2px -10px #e5e5e5;
+    -moz-box-shadow: -20px 8px 2px -10px #e5e5e5;
+    box-shadow: 0px 8px 15px -10px #e5e5e5;
+}
+
+.polo360 {
+    letter-spacing: -3px;
+
+}
+
+.img-polo div {
+    text-transform: uppercase;
+    padding-left: 75px;
+    padding-top: 25px;
+    width: 288px;
+    line-height: 5px;
+}
+
+#polo {
+
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 35pt;
+    color: #333333;
+}
+
+#t3 {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 35pt;
+    color: #c93884;
+}
+
+#t6 {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 35pt;
+    color: #0086ac;
+}
+
+#t0 {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 35pt;
+    color: #c46401;
+}
+
+#t {
+    color: #666666;
+    font-family: Myriad Pro;
+    padding-left: 2px;
+}
+
+.menu-item {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: Georgia;
+    font-size: 15px;
+    color: #808080;
+    text-decoration: none;
+}
+
+.menu ul li {
+    list-style-type: none;
+    display: inline-block;
+    color: #666666;
+    border-left: 1px dotted #d6d6d6;
+    /*     line-height: 0.2; */
+    padding-left: 10px;
+    padding-right: 7px;
+
+}
+.menu-item:hover{
+    color: black;
+    font-weight: bold;
+}
+#img {
+    float: left;
+    width: 288px;
+    height: 75px;
+}
+
+#img-div {
+    padding-top: 45px;
+}
+
+header {
+    padding-left: 180px;
+    margin-top: 30px;
+}
+
+.menu ul li p {
+    font-family: Tahoma;
+    font-size: 10pt;
+    color: #b7b7b7;
+    margin-top: 0;
+}
+
+.menu {
+    padding-left: 300px;
+    padding-top: 2px;
+    padding-bottom: 20px;
+}
+
+.slider {
+    padding-left: 200px;
+    padding-top: 20px;
+    background-color: #000000;
+    height: 313px;
+}
+
+.slider img.slider1 {
+    border-radius: 10px;
+    width: 940px;
+    height: 339px;
+    z-index: 2;
+    position: absolute;
+}
+
+.slider .shadow {
+    width: 940px;
+    height: 10px;
+    z-index: 3;
+    position: absolute;
+    padding-top: 339px;
+}
+
+.slider2 h2 {
+    text-align: center;
+    padding-top: 20px;
+    font-family: Georgia;
+    font-size: 18pt;
+}
+
+.slider2 {
+    text-align: center;
+}
+
+.listbtn {
+    padding-left: 20px;
+}
+
+.listbtn button {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-top: 310px;
+    position: relative;
+    z-index: 4;
+    width: 17px;
+    height: 19px;
+    border-radius: 100%;
+    border: 4px solid black;
+    background-color: #f0f0f0;
+
+}
+
+.listbtn #v {
+    background-color: #7ad5f2;
+}
+
+.content {
+    width: 968px;
+    margin-left: 200px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    /*border-bottom: 1px solid #e5e5e5;*/
+    -webkit-box-shadow: -20px 9px 2px -10px #e5e5e5;
+    -moz-box-shadow: -20px 8px 2px -10px #e5e5e5;
+    box-shadow: 0px 8px 15px -10px #e5e5e5;
+}
+
+.s {
+    width: 943px;
+}
+
+.slider2 .s {
+    width: 940px;
+    margin-left: 7px;
+}
+
+.content-span {
+    width: 320px;
+    height: 455px;
+    display: inline-block;
+
+}
+
+.heading-text {
+    font-family: Georgia;
+    font-size: 17pt;
+    color: #11719e;
+}
+
+.body-text {
+    font-family: Helvetica;
+    font-size: 10pt;
+    margin-top: -20px;
+    color: #8c8c8c;
+}
+
+.img-content {
+    width: 280px;
+    height: 177px;
+    border: 7px solid #f3f3f3;
+    border-radius: 4px;
+    background-image: url(img/imgs.png);
+    z-index: 10;
+}
+.img-content-1{
+    background-position: -10px -138px;
+}
+.img-content-2{
+    background-position: -319px -138px;
+}
+.img-content-3{
+    background-position: -634px -138px;
+}
+.content-text {
+    width: 295px;
+    font-family: Myriad Pro;
+    font-size: 11pt;
+    color: #8c8c8c;
+
+}
+
+.btn-text {
+    background-image: linear-gradient(to right, #d8d8d8 -25%, #f5f5f5, #d8d8d8);
+    width: 165px;
+    float: left;
+    height: 30px;
+    border: 1px solid #d8d8d8;
+    background-color: #e8e8e8;
+    border-radius: 5px;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0.5, 0, 0.05);
+}
+
+.btn-text a span{
+    font-family: Helvetica;
+    font-size: 10pt;
+    color: #016999;
+    float: left;
+    padding-left: 5px;
+    text-decoration: none;
+}
+.img-btn-learn-more{
+    background-image: url(img/imgs.png);
+    height: 15px;
+    width: 5px;
+    background-position: -368px -14px;
+}
+
+.btn-text img {
+    float: right;
+    padding-top: 5px;
+}
+
+.text-content {
+    font-family: Georgia;
+    font-size: 15pt;
+    width: 295px;
+    height: 27px;
+    border-bottom: 1px dashed #d3d3d3;
+    color: #444444;
+}
+
+.content-span .body-content {
+    width: 295px;
+    font-size: 10pt;
+    font-family: Myriad Pro;
+    float: left;
+    color: #444444;
+    margin-top: 0px;
+}
+
+.list-icon {
+    float: left;
+    list-style-type: none;
+    margin-left: -50px;
+}
+
+.list-icon li {
+
+    display: inline-block;
+    padding-left: 10px;
+}
+.sprite {
+    background-image: url(img/imgs.png);
+    background-size: auto;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 53px;
+    width: 49px;
+}
+.icon-1 {
+    background-position: 5px -1px;
+}
+.icon-2 {
+    background-position: -67px -1px;
+}
+.icon-3 {
+    background-position: -144px 0px;
+}
+.icon-4{
+    background-position: -213px -1px;
+}
+.icon-5{
+    background-position: -291px -1px;
+}
+#text1 {
+    font-weight: bold;
+    font-family: Trebuchet MS;
+    float: left;
+    color: #444444;
+    margin-top: -1px;
+    width: 295px;
+    height: 27px;
+    border-bottom: 1px dashed #d3d3d3;
+}
+
+.text2 {
+    font-size: 13px;
+    font-family: Helvetica;
+    color: #444444;
+    float: left;
+    margin-top: -1px;
+    width: 295px;
+}
+
+span input {
+    float: left;
+    border: 1.5px solid #cfcfcf;
+    width: 292px;
+    height: 35px;
+    border-radius: 5px;
+    font-family: Verdana;
+}
+
+.blue-btn {
+    float: left;
+    width: 160px;
+    height: 35px;
+    border-radius: 5px;
+    background-color: #3e79b8;
+    border: 1px solid #004a80;
+    background-image: linear-gradient(to right, #306193 -25%, #3d79b8, #306193);
+}
+
+.blue-btn span a{
+    font-family: Georgia;
+    font-size: 10pt;
+    color: white;
+    float: left;
+    padding-left: 5px;
+    text-decoration: none;
+}
+
+.blue-btn img {
+    float: right;
+    padding-top: 5px;
+}
+
+.content-span input {
+    margin-bottom: 15px;
+}
+
+.content-span input#c {
+    height: 148px;
+}
+
+.content-span #ul-content {
+    float: left;
+    padding-left: 0px;
+    margin-top: -17px;
+}
+
+.content-span ul .lis {
+    list-style-type: none;
+    padding-bottom: 10px;
+    padding-top: 13px;
+    float: left;
+    margin-right: 26px;
+    border-bottom: 1px dashed #d3d3d3;
+}
+
+.content-span ul li .imgs {
+    float: left;
+    margin-right: 10px;
+    border: 5px solid #f0f0f0;
+    border-radius: 5px;
+    background-image: url(img/imgs.png);
+    height: 47px;
+    width: 47px;
+}
+.content-span ul li .img-1{
+    background-position: -5px -66px;
+}
+.content-span ul li .img-2{
+    background-position: -76px -65px;
+}
+.content-span ul li .img-3{
+    background-position: -153px -66px;
+}
+
+
+footer {
+    border-top: 10px solid #4c4c4c;
+    background-color: #333333;
+    height: 180px;
+    font-family: Myriad Pro;
+    color: #999999;
+    font-size: 13px;
+    padding-top: 30px;
+    line-height: 10px;
+}
+
+footer div {
+    padding-left: 200px;
+}
+
+.site-footer{
+    padding-right: 287px;
+}
+
+footer p{
+    padding-left: 200px;
+}
+footer p a{
+    color: #999999;
+     text-decoration: none;
+     padding-right: 5px;
+     padding-left: 5px;    
+     border-right: 2px solid #999999;
+}
+.none-boder-right{
+    border-right: none;
+}
+
+#text-li-1 {
+    font-family: Helvetica;
+    font-size: 10pt;
+    color: #444444;
+}
+
+.text-li {
+    font-family: Myriad Pro;
+    font-size: 10pt;
+    color: #444444;
+}
+body{
+    margin-bottom: -10px;
+    margin-right: 0px;
+    margin-left: 0px ;
+}
+.footer-left{
+    padding-left: 0;
+}
